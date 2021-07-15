@@ -24,3 +24,12 @@ nav ul li a{
     padding: 8px;
     font-size: 0.8rem;
 }
+
+#tituloPrincipal{
+    text-align: center;
+    color: purple;
+}
+
+p{
+    text-align: center;
+}
